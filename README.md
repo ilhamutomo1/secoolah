@@ -1,0 +1,2 @@
+# secoolah
+ An School Software
